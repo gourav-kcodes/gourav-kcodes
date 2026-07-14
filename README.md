@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 I am a 4th-year BS-MS student at IISER Pune, studying Data Science
 and Mathematics. My interest in ML started from curiosity about how
@@ -19,7 +19,7 @@ sentiment and framing shift across thousands of posts over time.
 I also enjoy deep learning and computer vision, and building systems
 that go from raw data all the way to something that works.
 
----
+--
 
 
 Research
