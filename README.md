@@ -70,9 +70,3 @@ records — 96% for stress, 98% for anxiety, 99% for depression.
 Always open to reading recommendations, paper suggestions, or
 conversations around any of the areas above. Also open to research
 opportunities and collaborations - feel free to reach out.
-
----
-## Contact
-
-- 📧 gourav.kumawat@students.iiserpune.ac.in
-- 💼 [linkedin.com/in/gaurav-kumawat-82876a283](https://www.linkedin.com/in/gaurav-kumawat-82876a283)
