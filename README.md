@@ -74,5 +74,5 @@ opportunities and collaborations - feel free to reach out.
 ---
 ### Contact
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gourav.kumawat@students.iiserpune.ac.in)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumawat-82876a283)
+- 📧 gourav.kumawat@students.iiserpune.ac.in
+- 💼 [linkedin.com/in/gaurav-kumawat-82876a283](https://www.linkedin.com/in/gaurav-kumawat-82876a283)
