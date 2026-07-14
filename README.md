@@ -1,4 +1,4 @@
-## Gourav Kumawat
+## About Me
 
 I am a 4th-year BS-MS student at IISER Pune, studying Data Science
 and Mathematics. My interest in ML started from curiosity about how
@@ -22,9 +22,9 @@ that go from raw data all the way to something that works.
 ---
 
 
-### Research
+Research
 
-**Published — Springer, 2026**
+*Published - Springer, 2026*
 [A Mathematical Stacking Ensemble Model for Prediction of Multiple
 Mental Disorders Among Students](https://doi.org/10.1007/978-3-032-13048-8_31)
 *Euro-China Conference on Intelligent Data Analysis (ECC 2025),
@@ -35,7 +35,7 @@ stress, anxiety, and depression severity across 2,029 student
 records — 96% for stress, 98% for anxiety, 99% for depression.
 
 ---
-### Research Interests
+Research Interests
 
 - Machine learning and statistical modelling
 - NLP and large language models
@@ -45,7 +45,7 @@ records — 96% for stress, 98% for anxiety, 99% for depression.
 
 ---
 
-### Exploring
+Exploring
 
 - Vocal and speech signal processing
 - Multimodal learning - video, image, language, and speech
@@ -53,7 +53,7 @@ records — 96% for stress, 98% for anxiety, 99% for depression.
 
 ---
 
-### Technical Skills
+Technical Skills
 
 - Languages: Python, C, C++, SQL
 - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, HuggingFace
@@ -65,14 +65,14 @@ records — 96% for stress, 98% for anxiety, 99% for depression.
 
 ---
 
-### A Note
+A Note
 
 Always open to reading recommendations, paper suggestions, or
 conversations around any of the areas above. Also open to research
 opportunities and collaborations - feel free to reach out.
 
 ---
-### Contact
+Contact
 
 - 📧 gourav.kumawat@students.iiserpune.ac.in
 - 💼 [linkedin.com/in/gaurav-kumawat-82876a283](https://www.linkedin.com/in/gaurav-kumawat-82876a283)
